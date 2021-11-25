@@ -1,0 +1,9 @@
+body {
+    background: url(./IMG_8917.jpg) no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-backgroundsize: cover;
+    background-size: cover;
+    opacity: 1.0;
+    background-color: lightsteelblue;
+} 
